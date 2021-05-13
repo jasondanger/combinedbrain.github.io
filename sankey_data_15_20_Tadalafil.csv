@@ -1,0 +1,290 @@
+Cited_Display_Name,Citing_Display_Name,weight
+U Florence_a,U Florence_b,14054.0
+Eli Lilly and Co._a,Eli Lilly and Co._b,8054.0
+Sapienza U Rome_a,Sapienza U Rome_b,5500.0
+Eli Lilly and Co._a,U Florence_b,2666.0
+U Western Ontario_a,Eli Lilly and Co._b,2107.0
+Sapienza U Rome_a,U Florence_b,1582.0
+U Florence_a,Sapienza U Rome_b,1522.0
+Eli Lilly and Co._a,Sapienza U Rome_b,1468.0
+Eli Lilly and Co._a,Aristotle U Thessaloniki_b,1261.0
+Eli Lilly and Co._a,U Rhode Island_b,1179.0
+U Florence_a,U Catania_b,1161.0
+U Florence_a,U Rhode Island_b,1056.0
+VCU_a,VCU_b,1043.0
+U Florence_a,Inha U_b,1007.0
+Johns Hopkins U_a,Johns Hopkins U_b,962.0
+Eli Lilly and Co._a,Hannover Medical School_b,919.0
+U Florence_a,Johns Hopkins U_b,877.0
+U Florence_a,Eli Lilly and Co._b,875.0
+Eli Lilly and Co._a,Pfizer_b,865.0
+U Florence_a,Hannover Medical School_b,809.0
+Eli Lilly and Co._a,Tulane U_b,775.0
+Eli Lilly and Co._a,U Western Ontario_b,764.0
+Eli Lilly and Co._a,U Naples Federico II_b,763.0
+U Florence_a,"U California, San Francisco_b",736.0
+New York U_a,Eli Lilly and Co._b,695.0
+Hannover Medical School_a,U Florence_b,655.0
+U Giessen_a,U Giessen_b,596.0
+New York U_a,U Rhode Island_b,593.0
+Hannover Medical School_a,Hannover Medical School_b,566.0
+Eli Lilly and Co._a,"U California, San Francisco_b",554.0
+VCU_a,Sapienza U Rome_b,541.0
+Eli Lilly and Co._a,Johns Hopkins U_b,538.0
+U Western Ontario_a,Inha U_b,530.0
+Hannover Medical School_a,Ludwig Maximilian U Munich_b,525.0
+New York U_a,U Florence_b,514.0
+Aristotle U Thessaloniki_a,Eli Lilly and Co._b,510.0
+Eli Lilly and Co._a,Seoul National U_b,507.0
+U Florence_a,Ludwig Maximilian U Munich_b,478.0
+U Western Ontario_a,Aristotle U Thessaloniki_b,476.0
+Sapienza U Rome_a,Eli Lilly and Co._b,470.0
+U Florence_a,U Naples Federico II_b,452.0
+Sapienza U Rome_a,U L'Aquila_b,443.0
+Eli Lilly and Co._a,U L'Aquila_b,408.0
+Eli Lilly and Co._a,BWH & Harvard_b,402.0
+U Western Ontario_a,Tulane U_b,388.0
+U Southern California_a,Eli Lilly and Co._b,387.0
+Hannover Medical School_a,Eli Lilly and Co._b,383.0
+Eli Lilly and Co._a,Ludwig Maximilian U Munich_b,377.0
+Eli Lilly and Co._a,U Giessen_b,370.0
+UCLA_a,Eli Lilly and Co._b,342.0
+Aristotle U Thessaloniki_a,U Florence_b,338.0
+U Western Ontario_a,U Rhode Island_b,324.0
+U Giessen_a,Sapienza U Rome_b,323.0
+UCLA_a,U Giessen_b,310.0
+U Western Ontario_a,Sapienza U Rome_b,305.0
+Aristotle U Thessaloniki_a,Aristotle U Thessaloniki_b,302.0
+Aristotle U Thessaloniki_a,Seoul National U_b,298.0
+U Southern California_a,Sapienza U Rome_b,298.0
+U Florence_a,U Western Ontario_b,285.0
+U Florence_a,U L'Aquila_b,276.0
+Aristotle U Thessaloniki_a,Tulane U_b,274.0
+U Giessen_a,Hannover Medical School_b,273.0
+New York U_a,Aristotle U Thessaloniki_b,271.0
+Aristotle U Thessaloniki_a,Sapienza U Rome_b,270.0
+U Western Ontario_a,U Western Ontario_b,268.0
+U Western Ontario_a,U Florence_b,265.0
+U Florence_a,Seoul National U_b,265.0
+U Florence_a,Aristotle U Thessaloniki_b,256.0
+Eli Lilly and Co._a,VCU_b,250.0
+Vanderbilt U_a,Johns Hopkins U_b,248.0
+New York U_a,Johns Hopkins U_b,247.0
+Johns Hopkins U_a,U Giessen_b,242.0
+Vanderbilt U_a,U Florence_b,240.0
+Sapienza U Rome_a,U Rhode Island_b,240.0
+U Southern California_a,U Florence_b,233.0
+UCLA_a,Hannover Medical School_b,230.0
+U Florence_a,U Giessen_b,227.0
+New York U_a,U Western Ontario_b,225.0
+Aristotle U Thessaloniki_a,U Rhode Island_b,223.0
+UCLA_a,Sapienza U Rome_b,216.0
+Vanderbilt U_a,Sapienza U Rome_b,215.0
+U Southern California_a,Seoul National U_b,212.0
+CU Denver_a,Tulane U_b,210.0
+Sapienza U Rome_a,U Catania_b,208.0
+Vanderbilt U_a,U Giessen_b,201.0
+Sapienza U Rome_a,Aristotle U Thessaloniki_b,199.0
+Hannover Medical School_a,Sapienza U Rome_b,199.0
+VCU_a,Johns Hopkins U_b,194.0
+U Western Ontario_a,U Naples Federico II_b,193.0
+U Florence_a,Tulane U_b,189.0
+Aristotle U Thessaloniki_a,Pfizer_b,189.0
+Eli Lilly and Co._a,U Catania_b,186.0
+Sapienza U Rome_a,Johns Hopkins U_b,185.0
+Vanderbilt U_a,U L'Aquila_b,185.0
+U Western Ontario_a,U L'Aquila_b,184.0
+U Southern California_a,Aristotle U Thessaloniki_b,180.0
+U Southern California_a,U Rhode Island_b,174.0
+VCU_a,U Naples Federico II_b,174.0
+UCLA_a,Johns Hopkins U_b,171.0
+Sapienza U Rome_a,U Western Ontario_b,168.0
+Sapienza U Rome_a,Tulane U_b,165.0
+Hannover Medical School_a,U Rhode Island_b,164.0
+U Florence_a,BWH & Harvard_b,163.0
+Washington_a,Pfizer_b,163.0
+U Southern California_a,"U California, San Francisco_b",157.0
+Aristotle U Thessaloniki_a,"U California, San Francisco_b",156.0
+U Western Ontario_a,"U California, San Francisco_b",155.0
+Vanderbilt U_a,Eli Lilly and Co._b,152.0
+Sapienza U Rome_a,VCU_b,152.0
+U Giessen_a,U Florence_b,142.0
+U Giessen_a,Johns Hopkins U_b,140.0
+Washington_a,Johns Hopkins U_b,140.0
+CU Denver_a,BWH & Harvard_b,138.0
+Sapienza U Rome_a,U Naples Federico II_b,137.0
+Johns Hopkins U_a,BWH & Harvard_b,137.0
+Vanderbilt U_a,Pfizer_b,137.0
+UCLA_a,BWH & Harvard_b,129.0
+U Southern California_a,Johns Hopkins U_b,124.0
+U Western Ontario_a,Hannover Medical School_b,122.0
+VCU_a,BWH & Harvard_b,121.0
+New York U_a,U Naples Federico II_b,117.0
+Aristotle U Thessaloniki_a,U Naples Federico II_b,117.0
+Aristotle U Thessaloniki_a,Johns Hopkins U_b,115.0
+New York U_a,Seoul National U_b,113.0
+New York U_a,BWH & Harvard_b,111.0
+VCU_a,U Florence_b,110.0
+Washington_a,VCU_b,109.0
+Johns Hopkins U_a,Sapienza U Rome_b,109.0
+Aristotle U Thessaloniki_a,U Western Ontario_b,107.0
+U Western Ontario_a,Pfizer_b,103.0
+U Western Ontario_a,Ludwig Maximilian U Munich_b,103.0
+Vanderbilt U_a,U Naples Federico II_b,102.0
+U Southern California_a,BWH & Harvard_b,102.0
+Vanderbilt U_a,"U California, San Francisco_b",101.0
+Vanderbilt U_a,Seoul National U_b,99.0
+U Giessen_a,BWH & Harvard_b,99.0
+U Western Ontario_a,BWH & Harvard_b,98.0
+Aristotle U Thessaloniki_a,Ludwig Maximilian U Munich_b,97.0
+CU Denver_a,Johns Hopkins U_b,97.0
+VCU_a,Tulane U_b,97.0
+Washington_a,Hannover Medical School_b,96.0
+Johns Hopkins U_a,Hannover Medical School_b,96.0
+Hannover Medical School_a,Tulane U_b,96.0
+Johns Hopkins U_a,Tulane U_b,95.0
+Sapienza U Rome_a,Inha U_b,92.0
+U Southern California_a,Ludwig Maximilian U Munich_b,92.0
+CU Denver_a,VCU_b,91.0
+New York U_a,Sapienza U Rome_b,90.0
+U Southern California_a,U Western Ontario_b,90.0
+U Western Ontario_a,Seoul National U_b,88.0
+Sapienza U Rome_a,"U California, San Francisco_b",88.0
+Sapienza U Rome_a,Hannover Medical School_b,85.0
+U Giessen_a,Eli Lilly and Co._b,84.0
+U Southern California_a,Tulane U_b,82.0
+Vanderbilt U_a,Tulane U_b,81.0
+New York U_a,Tulane U_b,81.0
+VCU_a,Seoul National U_b,81.0
+UCLA_a,U Florence_b,78.0
+Johns Hopkins U_a,U Rhode Island_b,77.0
+Vanderbilt U_a,Aristotle U Thessaloniki_b,74.0
+Hannover Medical School_a,Pfizer_b,74.0
+CU Denver_a,U Giessen_b,74.0
+UCLA_a,"U California, San Francisco_b",73.0
+Hannover Medical School_a,U Giessen_b,73.0
+Washington_a,"U California, San Francisco_b",73.0
+Hannover Medical School_a,Seoul National U_b,70.0
+Hannover Medical School_a,U Catania_b,70.0
+Johns Hopkins U_a,U Florence_b,70.0
+Sapienza U Rome_a,Seoul National U_b,68.0
+Johns Hopkins U_a,Eli Lilly and Co._b,67.0
+Johns Hopkins U_a,Aristotle U Thessaloniki_b,66.0
+CU Denver_a,U Naples Federico II_b,65.0
+U Western Ontario_a,Johns Hopkins U_b,65.0
+Johns Hopkins U_a,Pfizer_b,65.0
+Hannover Medical School_a,"U California, San Francisco_b",64.0
+U Giessen_a,U L'Aquila_b,64.0
+Hannover Medical School_a,U Naples Federico II_b,63.0
+Sapienza U Rome_a,Pfizer_b,63.0
+New York U_a,"U California, San Francisco_b",63.0
+UCLA_a,U Naples Federico II_b,62.0
+Washington_a,BWH & Harvard_b,61.0
+Johns Hopkins U_a,Ludwig Maximilian U Munich_b,61.0
+UCLA_a,Ludwig Maximilian U Munich_b,61.0
+Vanderbilt U_a,U Western Ontario_b,61.0
+U Southern California_a,U L'Aquila_b,61.0
+U Southern California_a,Pfizer_b,58.0
+Sapienza U Rome_a,BWH & Harvard_b,58.0
+New York U_a,U L'Aquila_b,57.0
+Johns Hopkins U_a,U Catania_b,57.0
+U Giessen_a,Pfizer_b,57.0
+Washington_a,U Giessen_b,56.0
+Vanderbilt U_a,U Rhode Island_b,56.0
+U Western Ontario_a,U Giessen_b,56.0
+Eli Lilly and Co._a,Inha U_b,56.0
+UCLA_a,Pfizer_b,56.0
+Johns Hopkins U_a,"U California, San Francisco_b",55.0
+U Giessen_a,U Naples Federico II_b,54.0
+UCLA_a,Tulane U_b,54.0
+U Florence_a,Pfizer_b,53.0
+New York U_a,Hannover Medical School_b,51.0
+U Southern California_a,U Naples Federico II_b,50.0
+Sapienza U Rome_a,U Giessen_b,50.0
+Hannover Medical School_a,U Western Ontario_b,49.0
+Hannover Medical School_a,Johns Hopkins U_b,46.0
+Vanderbilt U_a,Hannover Medical School_b,45.0
+Washington_a,Sapienza U Rome_b,44.0
+Sapienza U Rome_a,Ludwig Maximilian U Munich_b,43.0
+Johns Hopkins U_a,U Western Ontario_b,43.0
+UCLA_a,VCU_b,42.0
+U Giessen_a,Ludwig Maximilian U Munich_b,41.0
+New York U_a,Ludwig Maximilian U Munich_b,41.0
+VCU_a,Pfizer_b,40.0
+Hannover Medical School_a,BWH & Harvard_b,38.0
+Aristotle U Thessaloniki_a,Hannover Medical School_b,36.0
+New York U_a,Pfizer_b,35.0
+UCLA_a,Aristotle U Thessaloniki_b,34.0
+VCU_a,"U California, San Francisco_b",34.0
+Vanderbilt U_a,BWH & Harvard_b,34.0
+UCLA_a,U Western Ontario_b,33.0
+Aristotle U Thessaloniki_a,U Catania_b,33.0
+U Southern California_a,VCU_b,32.0
+Washington_a,Seoul National U_b,31.0
+U Giessen_a,"U California, San Francisco_b",31.0
+Johns Hopkins U_a,VCU_b,30.0
+VCU_a,Inha U_b,27.0
+Hannover Medical School_a,Aristotle U Thessaloniki_b,27.0
+U Giessen_a,Tulane U_b,24.0
+Washington_a,Tulane U_b,24.0
+CU Denver_a,Hannover Medical School_b,24.0
+Aristotle U Thessaloniki_a,U L'Aquila_b,24.0
+Aristotle U Thessaloniki_a,Inha U_b,24.0
+U Western Ontario_a,VCU_b,24.0
+VCU_a,U Western Ontario_b,24.0
+Aristotle U Thessaloniki_a,BWH & Harvard_b,24.0
+U Giessen_a,VCU_b,23.0
+Vanderbilt U_a,VCU_b,23.0
+U Southern California_a,Inha U_b,22.0
+U Giessen_a,Seoul National U_b,21.0
+U Giessen_a,Aristotle U Thessaloniki_b,21.0
+U Florence_a,VCU_b,21.0
+U Giessen_a,U Western Ontario_b,20.0
+CU Denver_a,Sapienza U Rome_b,20.0
+VCU_a,U Catania_b,20.0
+UCLA_a,U Rhode Island_b,19.0
+Vanderbilt U_a,Ludwig Maximilian U Munich_b,18.0
+U Western Ontario_a,U Catania_b,18.0
+Johns Hopkins U_a,U L'Aquila_b,17.0
+U Southern California_a,Hannover Medical School_b,17.0
+Washington_a,Ludwig Maximilian U Munich_b,16.0
+Washington_a,U Catania_b,16.0
+New York U_a,Inha U_b,14.0
+Washington_a,U Rhode Island_b,14.0
+VCU_a,U Giessen_b,14.0
+CU Denver_a,Pfizer_b,14.0
+CU Denver_a,Eli Lilly and Co._b,14.0
+U Southern California_a,U Catania_b,13.0
+Washington_a,U Florence_b,13.0
+Hannover Medical School_a,VCU_b,12.0
+Johns Hopkins U_a,U Naples Federico II_b,12.0
+Washington_a,U L'Aquila_b,12.0
+Washington_a,U Naples Federico II_b,12.0
+UCLA_a,Seoul National U_b,12.0
+Washington_a,Eli Lilly and Co._b,12.0
+UCLA_a,U L'Aquila_b,11.0
+CU Denver_a,"U California, San Francisco_b",11.0
+U Southern California_a,U Giessen_b,10.0
+UCLA_a,U Catania_b,9.0
+CU Denver_a,U L'Aquila_b,9.0
+VCU_a,U Rhode Island_b,8.0
+U Giessen_a,U Rhode Island_b,7.0
+Vanderbilt U_a,U Catania_b,6.0
+VCU_a,Ludwig Maximilian U Munich_b,6.0
+VCU_a,Hannover Medical School_b,6.0
+CU Denver_a,U Florence_b,6.0
+Hannover Medical School_a,Inha U_b,5.0
+Aristotle U Thessaloniki_a,U Giessen_b,4.0
+U Giessen_a,U Catania_b,3.0
+CU Denver_a,U Rhode Island_b,3.0
+Aristotle U Thessaloniki_a,VCU_b,3.0
+Washington_a,Inha U_b,2.0
+VCU_a,Eli Lilly and Co._b,2.0
+UCLA_a,Inha U_b,2.0
+New York U_a,U Giessen_b,2.0
+Washington_a,U Western Ontario_b,2.0
+Vanderbilt U_a,Inha U_b,1.0
+Johns Hopkins U_a,Seoul National U_b,1.0
+Johns Hopkins U_a,Inha U_b,1.0
+Hannover Medical School_a,U L'Aquila_b,1.0
+CU Denver_a,Aristotle U Thessaloniki_b,1.0
